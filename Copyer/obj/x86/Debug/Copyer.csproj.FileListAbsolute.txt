@@ -1,0 +1,8 @@
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\bin\Debug\Copyer.exe
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\bin\Debug\Copyer.pdb
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\obj\x86\Debug\Copyer.exe
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\obj\x86\Debug\Copyer.pdb
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\bin\Debug\Copyer.exe.config
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\bin\Debug\Clover.Copyer.dll
+c:\users\clover\documents\visual studio 2010\Projects\Copyer\Copyer\bin\Debug\Clover.Copyer.pdb
