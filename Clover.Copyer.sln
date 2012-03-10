@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clover.Copyer", "Clover.Copyer\Clover.Copyer.csproj", "{39785846-BBDE-47BC-B5BB-172CD9BFB637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copyer", "Copyer\Copyer.csproj", "{2C42680C-1628-4F9A-A5E5-070D27BBE97B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{2C42680C-1628-4F9A-A5E5-070D27BBE97B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

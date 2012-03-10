@@ -3,3 +3,8 @@ c:\users\clover\documents\visual studio 2010\Projects\Copyer\Clover.Copyer\bin\D
 c:\users\clover\documents\visual studio 2010\Projects\Copyer\Clover.Copyer\obj\Debug\ResolveAssemblyReference.cache
 c:\users\clover\documents\visual studio 2010\Projects\Copyer\Clover.Copyer\obj\Debug\Clover.Copyer.dll
 c:\users\clover\documents\visual studio 2010\Projects\Copyer\Clover.Copyer\obj\Debug\Clover.Copyer.pdb
+D:\My Document\MyServer\Clover.Copyer\Clover.Copyer\bin\Debug\Clover.Copyer.dll
+D:\My Document\MyServer\Clover.Copyer\Clover.Copyer\bin\Debug\Clover.Copyer.pdb
+D:\My Document\MyServer\Clover.Copyer\Clover.Copyer\obj\Debug\ResolveAssemblyReference.cache
+D:\My Document\MyServer\Clover.Copyer\Clover.Copyer\obj\Debug\Clover.Copyer.dll
+D:\My Document\MyServer\Clover.Copyer\Clover.Copyer\obj\Debug\Clover.Copyer.pdb

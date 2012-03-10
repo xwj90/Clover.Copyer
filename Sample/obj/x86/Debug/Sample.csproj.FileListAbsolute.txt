@@ -1,0 +1,8 @@
+D:\My Document\MyServer\Clover.Copyer\Sample\bin\Debug\Copyer.exe.config
+D:\My Document\MyServer\Clover.Copyer\Sample\bin\Debug\Copyer.exe
+D:\My Document\MyServer\Clover.Copyer\Sample\bin\Debug\Copyer.pdb
+D:\My Document\MyServer\Clover.Copyer\Sample\bin\Debug\Clover.Copyer.dll
+D:\My Document\MyServer\Clover.Copyer\Sample\bin\Debug\Clover.Copyer.pdb
+D:\My Document\MyServer\Clover.Copyer\Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Document\MyServer\Clover.Copyer\Sample\obj\x86\Debug\Copyer.exe
+D:\My Document\MyServer\Clover.Copyer\Sample\obj\x86\Debug\Copyer.pdb
