@@ -10,7 +10,7 @@ namespace Clover.Copyer
 {
     public delegate void CopyAction<T, K>(T t, K k);
     public delegate void CopyReader<T, IDataReader>(T t, IDataReader reader);
-
+     
     public static class CopyHelper<T, K>
     {
         private static CopyAction<T, K> action = null;
@@ -48,13 +48,20 @@ namespace Clover.Copyer
             action(t, k);
         }
     }
-
+    
     public static class CopyHelper<T> where T : new()
     {
         private static CopyReader<T, IDataReader> action1 = null;
         //private static CopyReader<T, IDataReader> action2 = null;
         private static int isInited = 0;
         private static int isIniting = 0;
+
+        /// <summary>
+        /// copy values from IDataReader  To a List of T
+        /// </summary>
+        /// <param name="reader"></param>
+        /// <param name="allowDyanmicCheck"></param>
+        /// <returns></returns>
         public static List<T> Copy(IDataReader reader, bool allowDyanmicCheck = false)
         {
             if (isInited == 0)
@@ -211,7 +218,7 @@ namespace Clover.Copyer
                 throw new Exception("unsupported type :" + p.PropertyType.FullName);
             }
         }
-        private static class ReflectionExtensions
+        private  static class ReflectionExtensions
         {
             public static bool IsCustomValueType(Type type)
             {
